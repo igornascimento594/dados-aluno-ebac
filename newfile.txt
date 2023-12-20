@@ -1,0 +1,7 @@
+Tentei fazer da maneira que foi indicado no pdf, porem nao deu certo e fiz de outra maneira, segue com as informações.
+1 - Fazer um Fork compartilhamento de dados de uma pessoa para outra (ex: fabio para igor) para criar um clone de outro local.
+2-  Ir no seu github copiar o link que foi compartilhado o arquvio pelo fork e depois clonar apartir do fork feito do arquivo compartilhado
+3-  Gitbash > cd .. > cd repositorio > cd dados-aluno-ebac > git clone https://github.com/igornascimento594/dados-aluno-ebac.git
+4-  git status > git commit -m "Exemplo: alteração 1"
+5-  git push origin main ou master.
+6-  Verrificar se o arquivo subiu para seu git.
